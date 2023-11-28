@@ -1,0 +1,4 @@
+Svenska: hej/hallå, hejdå, sallad, sovrum, köttbullar, exempel, engelska
+Spanska: hola, adiós, lechuga, cuarto, , ejemplo, inglés
+Engelska: hi/hello, bye, salad, bedroom, meatballs, , english
+Franska: bonjour, au revoir, salade, chambre á coucher, , , 
